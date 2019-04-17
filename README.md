@@ -1,5 +1,5 @@
 # tasking-manager-data-export
-Application to export each individual mapped task of a project from HOT tasking Manager with mapped date and time.
+Application to export each individual mapped task of a project from [HOT Tasking Manager](https://tasks.hotosm.org/) with mapped date and time.
 
 https://martinedoesgis.github.io/tasking-manager-data-export/app.html
 
