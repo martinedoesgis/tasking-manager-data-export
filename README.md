@@ -3,7 +3,7 @@ Application to export each individual mapped task of a project from [HOT Tasking
 
 https://martinedoesgis.github.io/tasking-manager-data-export/app.html
 
-Use the data to create animations of the evolution of the mapping with the [Time Manager Plugion](https://github.com/anitagraser/TimeManager) for QGIS.
+Use the data to create animations of the mapping evolution with the [Time Manager Plugin](https://github.com/anitagraser/TimeManager) for QGIS.
 
 ![example](https://martinedoesgis.github.io/tasking-manager-data-export/example.gif
  "example")
